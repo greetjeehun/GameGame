@@ -1,0 +1,76 @@
+h1 {
+	color: #fffb9b;
+	font-family: 'Baloo Tamma', cursive;
+	font-size: 50px;
+	text-align: center;
+}
+
+h2{
+	margin-left: 100px;
+	color: #fffcb4;
+	font-family: 'Baloo Tamma', cursive;
+	font-size: 30px;
+}
+
+body {
+	background-image: url(images/dark.jpg);
+}
+
+.storytitle{
+	margin-left: 100px;
+	color: #fffcb4;
+	font-family: 'Baloo Tamma', cursive;
+	font-size: 30px;
+}
+.explain {
+	width: 450px;
+	color: white;
+	font-family: 'Fredoka One', cursive;
+	font-size: 20px;
+	margin-left: 100px;
+}
+
+.story {
+
+	width: 450px;
+	color: white;
+	font-family: 'Fredoka One', cursive;
+	font-size: 20px;
+	margin-left: 100px;
+}
+
+.fixed {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width: 250px;
+  background-color: #feffbe;
+  text-align: center;
+}
+
+.off{
+	width: 250px;
+	height: 20px;
+}
+
+.gameplay{
+	width: 500px;
+	height: 400px;
+	margin-left: 800px;
+	
+}
+
+.creatortitle{
+	margin-left: 700px;
+	color: #fffcb4;
+	font-family: 'Baloo Tamma', cursive;
+	font-size: 30px;
+}
+
+.creators {
+	width: 450px;
+	color: white;
+	font-family: 'Fredoka One', cursive;
+	font-size: 20px;
+	margin-left:600px;
+}
